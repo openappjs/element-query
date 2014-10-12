@@ -1,0 +1,33 @@
+{
+  "name": "element-query",
+  "version": "0.0.0",
+  "description": "Sets the style of a mercury component from the parent element's width and height",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/openappjs/element-query.git"
+  },
+  "keywords": [
+    "mercury",
+    "element",
+    "queries",
+    "style",
+    "responsive"
+  ],
+  "author": "openappjs",
+  "license": "AGPL",
+  "bugs": {
+    "url": "https://github.com/openappjs/element-query/issues"
+  },
+  "homepage": "https://github.com/openappjs/element-query",
+  "dependencies": {
+    "setimmediate": "^1.0.2",
+    "validate": "^2.1.5"
+  }
+}
